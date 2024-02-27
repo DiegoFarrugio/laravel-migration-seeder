@@ -11,6 +11,7 @@
 4. Sempre nel terminale, al termine dell'esecuzione di php artisan key:generate, eseguiamo il comando npm install (oppure, npm i)
 
 5. Sempre nel terminale, al termine di npm install, eseguire il comando npm run build
-- Al posto di npm run build, potreste eseguire npm run dev e lasciarlo attivo
+
+-   Al posto di npm run build, potreste eseguire npm run dev e lasciarlo attivo
 
 6. Aprire un altro terminale ed eseguire il comando php artisan serve
